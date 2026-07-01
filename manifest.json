@@ -1,0 +1,12 @@
+{
+  "background_color": "#a3a3a3",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "استاد زبان",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "استاد زبان",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "description": "کلمه 3000+گرامر"
+}
